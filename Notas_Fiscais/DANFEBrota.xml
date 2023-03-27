@@ -1,0 +1,557 @@
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00">
+    <NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+        <infNFe versao="4.00" Id="NFe35211136882195000279550010000028500052336">
+            <ide>
+                <cUF>35</cUF>
+                <cNF>54325233</cNF>
+                <natOp>Venda de mercadorias</natOp>
+                <mod>55</mod>
+                <serie>1</serie>
+                <nNF>26</nNF>
+                <dhEmi>2021-11-04T10:15:59-03:00</dhEmi>
+                <dhSaiEnt>2021-11-04T10:15:59-03:00</dhSaiEnt>
+                <tpNF>1</tpNF>
+                <idDest>2</idDest>
+                <cMunFG>3550308</cMunFG>
+                <tpImp>1</tpImp>
+                <tpEmis>1</tpEmis>
+                <cDV>6</cDV>
+                <tpAmb>1</tpAmb>
+                <finNFe>1</finNFe>
+                <indFinal>1</indFinal>
+                <indPres>2</indPres>
+                <indIntermed>0</indIntermed>
+                <procEmi>0</procEmi>
+                <verProc>Tiny ERP</verProc>
+            </ide>
+            <emit>
+                <CNPJ>36882195000279</CNPJ>
+                <xNome>BROTA COMPANY COMERCIO DE PLANTAS LTDA</xNome>
+                <xFant>Brota Company</xFant>
+                <enderEmit>
+                    <xLgr>Rua Dona Ana Neri</xLgr>
+                    <nro>035</nro>
+                    <xBairro>Mooca</xBairro>
+                    <cMun>3550308</cMun>
+                    <xMun>Sao Paulo</xMun>
+                    <UF>SP</UF>
+                    <CEP>03106010</CEP>
+                    <cPais>1058</cPais>
+                    <xPais>Brasil</xPais>
+                    <fone>21970999536</fone>
+                </enderEmit>
+                <IE>131494646119</IE>
+                <CRT>1</CRT>
+            </emit>
+            <dest>
+                <CPF>10000000000</CPF>
+                <xNome>Lira da Hashtag</xNome>
+                <enderDest>
+                    <xLgr>Perdido no Espaco</xLgr>
+                    <nro>0</nro>
+                    <xCpl>0</xCpl>
+                    <xBairro>Lua</xBairro>
+                    <cMun>3304557</cMun>
+                    <xMun>Rio de Janeiro</xMun>
+                    <UF>RJ</UF>
+                    <CEP>22000000</CEP>
+                    <cPais>1058</cPais>
+                    <xPais>Brasil</xPais>
+                    <fone>21999999999</fone>
+                </enderDest>
+                <indIEDest>9</indIEDest>
+                <email>liradoidonoespaco@gmail.com</email>
+            </dest>
+            <det nItem="1">
+                <prod>
+                    <cProd>BXL0120</cProd>
+                    <cEAN>SEM GTIN</cEAN>
+                    <xProd>b.box led</xProd>
+                    <NCM>39269069</NCM>
+                    <CFOP>6102</CFOP>
+                    <uCom>Un</uCom>
+                    <qCom>1.0000</qCom>
+                    <vUnCom>389.00</vUnCom>
+                    <vProd>389.00</vProd>
+                    <cEANTrib>SEM GTIN</cEANTrib>
+                    <uTrib>Un</uTrib>
+                    <qTrib>1.0000</qTrib>
+                    <vUnTrib>389.00</vUnTrib>
+                    <vFrete>0.15</vFrete>
+                    <vDesc>64.98</vDesc>
+                    <indTot>1</indTot>
+                    <xPed>2871</xPed>
+                </prod>
+                <imposto>
+                    <vTotTrib>129.46</vTotTrib>
+                    <ICMS>
+                        <ICMSSN102>
+                            <orig>0</orig>
+                            <CSOSN>102</CSOSN>
+                        </ICMSSN102>
+                    </ICMS>
+                    <IPI>
+                        <cEnq>999</cEnq>
+                        <IPITrib>
+                            <CST>99</CST>
+                            <vBC>324.17</vBC>
+                            <pIPI>0.00</pIPI>
+                            <vIPI>0.00</vIPI>
+                        </IPITrib>
+                    </IPI>
+                    <PIS>
+                        <PISOutr>
+                            <CST>49</CST>
+                            <vBC>0.00</vBC>
+                            <pPIS>0.00</pPIS>
+                            <vPIS>0.00</vPIS>
+                        </PISOutr>
+                    </PIS>
+                    <COFINS>
+                        <COFINSOutr>
+                            <CST>49</CST>
+                            <vBC>0.00</vBC>
+                            <pCOFINS>0.00</pCOFINS>
+                            <vCOFINS>0.00</vCOFINS>
+                        </COFINSOutr>
+                    </COFINS>
+                </imposto>
+            </det>
+            <det nItem="2">
+                <prod>
+                    <cProd>TOM0120</cProd>
+                    <cEAN>SEM GTIN</cEAN>
+                    <xProd>Tomilho Serpilho</xProd>
+                    <NCM>12119090</NCM>
+                    <CFOP>6102</CFOP>
+                    <uCom>Un</uCom>
+                    <qCom>1.0000</qCom>
+                    <vUnCom>10.00</vUnCom>
+                    <vProd>10.00</vProd>
+                    <cEANTrib>SEM GTIN</cEANTrib>
+                    <uTrib>Un</uTrib>
+                    <qTrib>1.0000</qTrib>
+                    <vUnTrib>10.00</vUnTrib>
+                    <vDesc>1.67</vDesc>
+                    <indTot>1</indTot>
+                    <xPed>2871</xPed>
+                </prod>
+                <imposto>
+                    <vTotTrib>3.15</vTotTrib>
+                    <ICMS>
+                        <ICMSSN102>
+                            <orig>0</orig>
+                            <CSOSN>102</CSOSN>
+                        </ICMSSN102>
+                    </ICMS>
+                    <IPI>
+                        <cEnq>999</cEnq>
+                        <IPITrib>
+                            <CST>99</CST>
+                            <vBC>8.33</vBC>
+                            <pIPI>0.00</pIPI>
+                            <vIPI>0.00</vIPI>
+                        </IPITrib>
+                    </IPI>
+                    <PIS>
+                        <PISOutr>
+                            <CST>49</CST>
+                            <vBC>0.00</vBC>
+                            <pPIS>0.00</pPIS>
+                            <vPIS>0.00</vPIS>
+                        </PISOutr>
+                    </PIS>
+                    <COFINS>
+                        <COFINSOutr>
+                            <CST>49</CST>
+                            <vBC>0.00</vBC>
+                            <pCOFINS>0.00</pCOFINS>
+                            <vCOFINS>0.00</vCOFINS>
+                        </COFINSOutr>
+                    </COFINS>
+                </imposto>
+            </det>
+            <det nItem="3">
+                <prod>
+                    <cProd>ORE0120</cProd>
+                    <cEAN>SEM GTIN</cEAN>
+                    <xProd>Oregano Bravo-Europeu</xProd>
+                    <NCM>12119090</NCM>
+                    <CFOP>6102</CFOP>
+                    <uCom>Un</uCom>
+                    <qCom>1.0000</qCom>
+                    <vUnCom>10.00</vUnCom>
+                    <vProd>10.00</vProd>
+                    <cEANTrib>SEM GTIN</cEANTrib>
+                    <uTrib>Un</uTrib>
+                    <qTrib>1.0000</qTrib>
+                    <vUnTrib>10.00</vUnTrib>
+                    <vDesc>1.67</vDesc>
+                    <indTot>1</indTot>
+                    <xPed>2871</xPed>
+                </prod>
+                <imposto>
+                    <vTotTrib>3.15</vTotTrib>
+                    <ICMS>
+                        <ICMSSN102>
+                            <orig>0</orig>
+                            <CSOSN>102</CSOSN>
+                        </ICMSSN102>
+                    </ICMS>
+                    <IPI>
+                        <cEnq>999</cEnq>
+                        <IPITrib>
+                            <CST>99</CST>
+                            <vBC>8.33</vBC>
+                            <pIPI>0.00</pIPI>
+                            <vIPI>0.00</vIPI>
+                        </IPITrib>
+                    </IPI>
+                    <PIS>
+                        <PISOutr>
+                            <CST>49</CST>
+                            <vBC>0.00</vBC>
+                            <pPIS>0.00</pPIS>
+                            <vPIS>0.00</vPIS>
+                        </PISOutr>
+                    </PIS>
+                    <COFINS>
+                        <COFINSOutr>
+                            <CST>49</CST>
+                            <vBC>0.00</vBC>
+                            <pCOFINS>0.00</pCOFINS>
+                            <vCOFINS>0.00</vCOFINS>
+                        </COFINSOutr>
+                    </COFINS>
+                </imposto>
+            </det>
+            <det nItem="4">
+                <prod>
+                    <cProd>MAN0120</cProd>
+                    <cEAN>SEM GTIN</cEAN>
+                    <xProd>Manjericao Italiano</xProd>
+                    <NCM>12119090</NCM>
+                    <CFOP>6102</CFOP>
+                    <uCom>Un</uCom>
+                    <qCom>1.0000</qCom>
+                    <vUnCom>10.00</vUnCom>
+                    <vProd>10.00</vProd>
+                    <cEANTrib>SEM GTIN</cEANTrib>
+                    <uTrib>Un</uTrib>
+                    <qTrib>1.0000</qTrib>
+                    <vUnTrib>10.00</vUnTrib>
+                    <vDesc>1.67</vDesc>
+                    <indTot>1</indTot>
+                    <xPed>2871</xPed>
+                </prod>
+                <imposto>
+                    <vTotTrib>3.15</vTotTrib>
+                    <ICMS>
+                        <ICMSSN102>
+                            <orig>0</orig>
+                            <CSOSN>102</CSOSN>
+                        </ICMSSN102>
+                    </ICMS>
+                    <IPI>
+                        <cEnq>999</cEnq>
+                        <IPITrib>
+                            <CST>99</CST>
+                            <vBC>8.33</vBC>
+                            <pIPI>0.00</pIPI>
+                            <vIPI>0.00</vIPI>
+                        </IPITrib>
+                    </IPI>
+                    <PIS>
+                        <PISOutr>
+                            <CST>49</CST>
+                            <vBC>0.00</vBC>
+                            <pPIS>0.00</pPIS>
+                            <vPIS>0.00</vPIS>
+                        </PISOutr>
+                    </PIS>
+                    <COFINS>
+                        <COFINSOutr>
+                            <CST>49</CST>
+                            <vBC>0.00</vBC>
+                            <pCOFINS>0.00</pCOFINS>
+                            <vCOFINS>0.00</vCOFINS>
+                        </COFINSOutr>
+                    </COFINS>
+                </imposto>
+            </det>
+            <det nItem="5">
+                <prod>
+                    <cProd>COE0120</cProd>
+                    <cEAN>SEM GTIN</cEAN>
+                    <xProd>Coentro Portugues</xProd>
+                    <NCM>12119090</NCM>
+                    <CFOP>6102</CFOP>
+                    <uCom>Un</uCom>
+                    <qCom>1.0000</qCom>
+                    <vUnCom>10.00</vUnCom>
+                    <vProd>10.00</vProd>
+                    <cEANTrib>SEM GTIN</cEANTrib>
+                    <uTrib>Un</uTrib>
+                    <qTrib>1.0000</qTrib>
+                    <vUnTrib>10.00</vUnTrib>
+                    <vDesc>1.67</vDesc>
+                    <indTot>1</indTot>
+                    <xPed>2871</xPed>
+                </prod>
+                <imposto>
+                    <vTotTrib>3.15</vTotTrib>
+                    <ICMS>
+                        <ICMSSN102>
+                            <orig>0</orig>
+                            <CSOSN>102</CSOSN>
+                        </ICMSSN102>
+                    </ICMS>
+                    <IPI>
+                        <cEnq>999</cEnq>
+                        <IPITrib>
+                            <CST>99</CST>
+                            <vBC>8.33</vBC>
+                            <pIPI>0.00</pIPI>
+                            <vIPI>0.00</vIPI>
+                        </IPITrib>
+                    </IPI>
+                    <PIS>
+                        <PISOutr>
+                            <CST>49</CST>
+                            <vBC>0.00</vBC>
+                            <pPIS>0.00</pPIS>
+                            <vPIS>0.00</vPIS>
+                        </PISOutr>
+                    </PIS>
+                    <COFINS>
+                        <COFINSOutr>
+                            <CST>49</CST>
+                            <vBC>0.00</vBC>
+                            <pCOFINS>0.00</pCOFINS>
+                            <vCOFINS>0.00</vCOFINS>
+                        </COFINSOutr>
+                    </COFINS>
+                </imposto>
+            </det>
+            <det nItem="6">
+                <prod>
+                    <cProd>SAL0120</cProd>
+                    <cEAN>SEM GTIN</cEAN>
+                    <xProd>Salsa Hortense</xProd>
+                    <NCM>12099100</NCM>
+                    <CFOP>6102</CFOP>
+                    <uCom>Un</uCom>
+                    <qCom>1.0000</qCom>
+                    <vUnCom>10.00</vUnCom>
+                    <vProd>10.00</vProd>
+                    <cEANTrib>SEM GTIN</cEANTrib>
+                    <uTrib>Un</uTrib>
+                    <qTrib>1.0000</qTrib>
+                    <vUnTrib>10.00</vUnTrib>
+                    <vDesc>1.67</vDesc>
+                    <indTot>1</indTot>
+                    <xPed>2871</xPed>
+                </prod>
+                <imposto>
+                    <vTotTrib>3.15</vTotTrib>
+                    <ICMS>
+                        <ICMSSN102>
+                            <orig>0</orig>
+                            <CSOSN>102</CSOSN>
+                        </ICMSSN102>
+                    </ICMS>
+                    <IPI>
+                        <cEnq>999</cEnq>
+                        <IPITrib>
+                            <CST>99</CST>
+                            <vBC>8.33</vBC>
+                            <pIPI>0.00</pIPI>
+                            <vIPI>0.00</vIPI>
+                        </IPITrib>
+                    </IPI>
+                    <PIS>
+                        <PISOutr>
+                            <CST>49</CST>
+                            <vBC>0.00</vBC>
+                            <pPIS>0.00</pPIS>
+                            <vPIS>0.00</vPIS>
+                        </PISOutr>
+                    </PIS>
+                    <COFINS>
+                        <COFINSOutr>
+                            <CST>49</CST>
+                            <vBC>0.00</vBC>
+                            <pCOFINS>0.00</pCOFINS>
+                            <vCOFINS>0.00</vCOFINS>
+                        </COFINSOutr>
+                    </COFINS>
+                </imposto>
+            </det>
+            <det nItem="7">
+                <prod>
+                    <cProd>ALF0120</cProd>
+                    <cEAN>SEM GTIN</cEAN>
+                    <xProd>Alface Baby-Leaf</xProd>
+                    <NCM>12099100</NCM>
+                    <CFOP>6102</CFOP>
+                    <uCom>Un</uCom>
+                    <qCom>1.0000</qCom>
+                    <vUnCom>10.00</vUnCom>
+                    <vProd>10.00</vProd>
+                    <cEANTrib>SEM GTIN</cEANTrib>
+                    <uTrib>Un</uTrib>
+                    <qTrib>1.0000</qTrib>
+                    <vUnTrib>10.00</vUnTrib>
+                    <vFrete>0.02</vFrete>
+                    <vDesc>1.67</vDesc>
+                    <indTot>1</indTot>
+                    <xPed>2871</xPed>
+                </prod>
+                <imposto>
+                    <vTotTrib>3.15</vTotTrib>
+                    <ICMS>
+                        <ICMSSN102>
+                            <orig>0</orig>
+                            <CSOSN>102</CSOSN>
+                        </ICMSSN102>
+                    </ICMS>
+                    <IPI>
+                        <cEnq>999</cEnq>
+                        <IPITrib>
+                            <CST>99</CST>
+                            <vBC>8.35</vBC>
+                            <pIPI>0.00</pIPI>
+                            <vIPI>0.00</vIPI>
+                        </IPITrib>
+                    </IPI>
+                    <PIS>
+                        <PISOutr>
+                            <CST>49</CST>
+                            <vBC>0.00</vBC>
+                            <pPIS>0.00</pPIS>
+                            <vPIS>0.00</vPIS>
+                        </PISOutr>
+                    </PIS>
+                    <COFINS>
+                        <COFINSOutr>
+                            <CST>49</CST>
+                            <vBC>0.00</vBC>
+                            <pCOFINS>0.00</pCOFINS>
+                            <vCOFINS>0.00</vCOFINS>
+                        </COFINSOutr>
+                    </COFINS>
+                </imposto>
+            </det>
+            <total>
+                <ICMSTot>
+                    <vBC>0.00</vBC>
+                    <vICMS>0.00</vICMS>
+                    <vICMSDeson>0.00</vICMSDeson>
+                    <vFCPUFDest>0.00</vFCPUFDest>
+                    <vICMSUFDest>0.00</vICMSUFDest>
+                    <vICMSUFRemet>0.00</vICMSUFRemet>
+                    <vFCP>0.00</vFCP>
+                    <vBCST>0.00</vBCST>
+                    <vST>0.00</vST>
+                    <vFCPST>0.00</vFCPST>
+                    <vFCPSTRet>0.00</vFCPSTRet>
+                    <vProd>449.00</vProd>
+                    <vFrete>0.17</vFrete>
+                    <vSeg>0.00</vSeg>
+                    <vDesc>75.00</vDesc>
+                    <vII>0.00</vII>
+                    <vIPI>0.00</vIPI>
+                    <vIPIDevol>0.00</vIPIDevol>
+                    <vPIS>0.00</vPIS>
+                    <vCOFINS>0.00</vCOFINS>
+                    <vOutro>0.00</vOutro>
+                    <vNF>374.17</vNF>
+                    <vTotTrib>148.36</vTotTrib>
+                </ICMSTot>
+            </total>
+            <transp>
+                <modFrete>0</modFrete>
+                <transporta>
+                    <CNPJ>27807598000181</CNPJ>
+                    <xNome>Yellow Log</xNome>
+                    <IE>87418103</IE>
+                    <xEnder>Rua Vieira Ferreira, 114</xEnder>
+                    <xMun>Rio de Janeiro</xMun>
+                    <UF>RJ</UF>
+                </transporta>
+                <vol>
+                    <qVol>1</qVol>
+                    <pesoL>2.600</pesoL>
+                    <pesoB>2.600</pesoB>
+                </vol>
+            </transp>
+            <cobr>
+                <fat>
+                    <nFat>002856</nFat>
+                    <vOrig>374.17</vOrig>
+                    <vDesc>0</vDesc>
+                    <vLiq>374.17</vLiq>
+                </fat>
+                <dup>
+                    <nDup>001</nDup>
+                    <dVenc>2021-11-04</dVenc>
+                    <vDup>374.17</vDup>
+                </dup>
+            </cobr>
+            <pag>
+                <detPag>
+                    <tPag>99</tPag>
+                    <xPag>Conta a receber</xPag>
+                    <vPag>374.17</vPag>
+                </detPag>
+            </pag>
+            <infAdic>
+                <infCpl>Tributos aproximados: R$ 67,54 (Federal) e R$ 80,82 (Estadual). Fonte: IBPT BA21D5&lt;br /&gt;b.Box
+                    Led - horta inteligente com luz de led e irrigacao automatica&lt;br /&gt;Capsula 1: Tomilho Serpilho&lt;br
+                    /&gt;Capsula 2: Oregano Bravo-Europeu&lt;br /&gt;Capsula 3: Manjericao Italiano&lt;br /&gt;Capsula
+                    4: Coentro Portugues&lt;br /&gt;Capsula 5: Salsa Hortense&lt;br /&gt;Capsula 6: Alface Baby-Leaf&lt;br
+                    /&gt;&lt;br /&gt;
+                </infCpl>
+            </infAdic>
+            <compra>
+                <xPed>2871</xPed>
+            </compra>
+        </infNFe>
+        <Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+            <SignedInfo>
+                <CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+                <SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+                <Reference URI="#NFe3521000002195000279550010000028561543252336">
+                    <Transforms>
+                        <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+                        <Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+                    </Transforms>
+                    <DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+                    <DigestValue>YmPqwgaLfaaaMaafu3L8rLNhtAI=</DigestValue>
+                </Reference>
+            </SignedInfo>
+            <SignatureValue>
+                X2Ho8li542Pj5dQxqE4MvbBpYb+Nd8BafwxE7ZUPRaaata2xkNE5ue+pgk5UEEcHI+vlnXIuyjU18q8Y0PT/cEhnCbsSfT9G8IaulL0kBOKtHeI0GnRqFNaUp+NF0fX7yV6KVfFoXLo/hH520qiA/SKydbBtSn3B7C4O3P9j8+8b/gAQTRScFTfK7/rVel7MVQUg/cJnNvEXQC1W7D3iT+E0iCwIdty7KYa6AYOCfw2A+ooeijoFFbHzpfvp+NG4udOcQFswm1ozIYPxRWMKh0uFHvbmZRKNkMhrKRB/W5SvSJYGAe/Az/9WgZ2sJZUXps5hvP4mDo09pQ==
+            </SignatureValue>
+            <KeyInfo>
+                <X509Data>
+                    <X509Certificate>
+                        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
+                    </X509Certificate>
+                </X509Data>
+            </KeyInfo>
+        </Signature>
+    </NFe>
+    <protNFe versao="4.00">
+        <infProt>
+            <tpAmb>1</tpAmb>
+            <verAplic>SP_NFE_PL009_V4</verAplic>
+            <chNFe>35211136882195000279550010000028561541212336</chNFe>
+            <dhRecbto>2021-11-04T16:46:25-03:00</dhRecbto>
+            <nProt>135211306234123</nProt>
+            <digVal>YmPqwgaLfoagMFaaL8rLNhtAI=</digVal>
+            <cStat>100</cStat>
+            <xMotivo>Autorizado o uso da NF-e</xMotivo>
+        </infProt>
+    </protNFe>
+</nfeProc>
